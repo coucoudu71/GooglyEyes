@@ -1,6 +1,8 @@
 # GooglyEyes
 Projet Arduino - 1ere année Polytech Dijon
 
+Le but de ce projet est de reproduire le comportement de Googly Eyes (petits yeux en plastique qui bougent) sur des écrans, à l'aide d'un arduino et de capteurs. Des émotions ont aussi été ajoutées aux yeux grâce aux écrans, elles varient si on secoue trop fort le capteur ou si on le laisse au repos un certain temps.
+
 ## MATERIEL
 
 - Arduino : NANO 33 IOT
